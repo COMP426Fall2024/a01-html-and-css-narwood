@@ -1,4 +1,4 @@
-a, p {
+a, p, select, h1 {
     font-family: Garamond, serif;
 }
 
@@ -92,7 +92,48 @@ td:hover {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-li div img {
+li div img, select {
     height: 30vh;
     width: 40vh;
+}
+
+li {
+    padding: 10px;
+}
+
+select {
+    text-align-last: center;
+    font-size: 20px;
+}
+
+#nessie-header {
+    padding-left: 250px;
+    padding-top: 30px;
+}
+
+ul {
+    padding-left: 130px;
+}
+
+body a {
+    padding-left: 630px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+table {
+    margin-left: 200px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#search-header {
+    padding-left: 380px;
+    padding-top: 50px;
+}
+
+.pics-container {
+    background-color: #5b6150;
+    width: 800px;
+    margin-left: 220px;
 }
