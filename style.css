@@ -71,7 +71,7 @@ body {
     padding-left: 10px;
 }
 
-#summary {
+.summary {
     font-size: 30px;
     text-align: center;
     /* vertical-align: bottom; */
