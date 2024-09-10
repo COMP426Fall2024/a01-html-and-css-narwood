@@ -24,10 +24,10 @@ The starting, or home page, for this assignment should be titled `index.html`. T
 At a minimum, you HTML pages should have at least one of **each** of the following: 
 
 1. `<ul>` or `<ol>`.
-2. `<table>` .
-3. `<img> `.
+2. #`<table>` .
+3. #`<img> `.
 4. `<select>`.
-5. `<a>`.
+5. #`<a>`.
 
 In addition to that, all of your html pages should be valid HTML5 ([html validator](http://validator.w3.org/)). Minor warnings about browser incompatibility are OK.
 
@@ -37,15 +37,15 @@ This is the part of the assignment where you can get creative. Googling examples
 
 At a minimum, your stylesheet should:
 
-1. Have at least 10 selectors
+1. #Have at least 10 selectors
 2. Use two or more fonts for different kinds of content
-3. Set the background color of some elements, specifying the color by hex notation
-4. Set the border of some elements
+3. #Set the background color of some elements, specifying the color by hex notation
+4. #Set the border of some elements
 5. Use the :hover pseudo-class for one or more elements
-6. Use at least one class-based selector
-7. Use at least one id-based selector
+6. #Use at least one class-based selector
+7. #Use at least one id-based selector
 8. Have at least one selector rely on the hierarchical relationship between two elements
-9. Use width and/or height to control the geometry of an element
+9. #Use width and/or height to control the geometry of an element
 10. Validate as CSS3 using the W3C CSS validation tool ([css-validator](http://jigsaw.w3.org/css-validator/))
 
 Other than these basic features, feel free to use whatever CSS3 attributes you would like. 
@@ -86,6 +86,6 @@ Using CSS frameworks like Bootstrap, Bulma, etc. counts as "incorporating code o
 
 Fill out the following information (edit this ReadMe):
 
-First and Last Name: [Your first and last name]
+First and Last Name: Nicole Arwood
 
 Deployed Website URL: https://comp426fall2024.github.io/a01-html-and-css-narwood/
